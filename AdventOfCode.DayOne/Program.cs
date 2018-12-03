@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 
 namespace AdventOfCode.DayOne
 {
@@ -10,6 +7,21 @@ namespace AdventOfCode.DayOne
     {
         static void Main(string[] args)
         {
+            var total = 0;
+            using (var input = new StreamReader(@"input.txt"))
+            {
+                string line;
+                while ((line = input.ReadLine()) != null)
+                {
+                    if (int.TryParse(line, out var result))
+                    {
+                        total += result;
+                    }
+                }
+            }
+
+            Console.WriteLine(total.ToString());
+            Console.ReadLine();
         }
     }
 }
