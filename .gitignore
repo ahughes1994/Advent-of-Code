@@ -5,3 +5,6 @@
 /.vs/AdventOfCode/v15
 /AdventOfCode.DayOne/.vs/AdventOfCode.DayOne/v15
 /AdventOfCode.DayOne/obj/Debug
+/AdventOfCode.DayTwo/bin/Debug
+/AdventOfCode.DayTwo/obj/Debug
+/.vs/AdventOfCode/v16
