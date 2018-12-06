@@ -1,0 +1,8 @@
+g:\dev\Advent-of-Code\AdventOfCode.DayThree\bin\Debug\AdventOfCode.DayThree.exe.config
+g:\dev\Advent-of-Code\AdventOfCode.DayThree\bin\Debug\AdventOfCode.DayThree.exe
+g:\dev\Advent-of-Code\AdventOfCode.DayThree\bin\Debug\AdventOfCode.DayThree.pdb
+g:\dev\Advent-of-Code\AdventOfCode.DayThree\obj\Debug\AdventOfCode.DayThree.csprojAssemblyReference.cache
+g:\dev\Advent-of-Code\AdventOfCode.DayThree\obj\Debug\AdventOfCode.DayThree.csproj.CoreCompileInputs.cache
+g:\dev\Advent-of-Code\AdventOfCode.DayThree\obj\Debug\AdventOfCode.DayThree.exe
+g:\dev\Advent-of-Code\AdventOfCode.DayThree\obj\Debug\AdventOfCode.DayThree.pdb
+g:\dev\Advent-of-Code\AdventOfCode.DayThree\bin\Debug\input.txt

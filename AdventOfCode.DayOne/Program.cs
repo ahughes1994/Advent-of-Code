@@ -41,7 +41,7 @@ namespace AdventOfCode.DayOne
             Console.ReadLine();
         }
 
-        static void Part1Main(string[] args)
+        static void Main(string[] args)
         {
             var total = 0;
             using (var input = new StreamReader(@"input.txt"))
